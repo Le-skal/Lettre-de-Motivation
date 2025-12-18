@@ -22,7 +22,3 @@ Cordialement,
 📧 raphael.martin.2004@gmail.com  
 📱 +33 6 77 15 12 76  
 🔗 [LinkedIn](https://www.linkedin.com/in/raphael-martin-10a17128a/) | [Portfolio](https://le-skal.vercel.app/) | [GitHub](https://github.com/Le-skal)
-
----
-
-*P.S. : Je suis disponible pour poursuivre mon alternance en M1-M2.*
