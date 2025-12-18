@@ -25,4 +25,4 @@ Cordialement,
 
 ---
 
-*P.S. : Je suis disponible pour poursuivre mon alternance en M1-M2 et apporte déjà un réseau d'entreprises partenaires potentielles grâce à mon expérience chez L'AGEFI.*
+*P.S. : Je suis disponible pour poursuivre mon alternance en M1-M2.*
